@@ -1,5 +1,8 @@
 ### Hello world! 👋
 
+[![jeymingwu's github stats](https://github-readme-stats.vercel.app/api?username=jeymingwu)](https://github.com/jeymingwu/github-readme-stats)
+
+
 <!--
 **jeymingwu/jeymingwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
